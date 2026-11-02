@@ -1,0 +1,24 @@
+{
+  "name": "Niedermyer Financial System",
+  "short_name": "Niedermyer Financial",
+  "description": "Private household financial system launcher",
+  "start_url": "./?install=1",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#f7f2e8",
+  "theme_color": "#3f4932",
+  "icons": [
+    {
+      "src": "./niedermyer-app-icon-1024.png",
+      "sizes": "1024x1024",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "./niedermyer-app-icon-1024.png",
+      "sizes": "1024x1024",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}
